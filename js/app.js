@@ -4,7 +4,7 @@
 let cart=document.querySelector('.cart');
 let buyNow=document.querySelector('.buy-now');
 let watch=document.querySelector('.watch')
-let access=90
+
 
 
 //evennts
